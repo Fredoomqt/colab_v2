@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/colab-first.iml" filepath="$PROJECT_DIR$/.idea/colab-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../colab-second/.idea/colab-second.iml" filepath="$PROJECT_DIR$/../colab-second/.idea/colab-second.iml" />
     </modules>
   </component>
 </project>

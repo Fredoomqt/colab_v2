@@ -15,10 +15,5 @@ Colaboration
 6
 7
 7
-8
-8
-9
-9
 
-0
-0
+my friend

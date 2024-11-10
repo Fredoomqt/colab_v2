@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/colab-second.iml" filepath="$PROJECT_DIR$/.idea/colab-second.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/colab-first.iml" filepath="$PROJECT_DIR$/.idea/colab-first.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../colab-second/.idea/colab-second.iml" filepath="$PROJECT_DIR$/../colab-second/.idea/colab-second.iml" />
->>>>>>> 672b588ad8520881ef1993f8961078da912eb4f8
+      <module fileurl="file://$PROJECT_DIR$/../colab-second/.idea/colab-first.iml" filepath="$PROJECT_DIR$/../colab-second/.idea/colab-first.iml" />
     </modules>
   </component>
 </project>
